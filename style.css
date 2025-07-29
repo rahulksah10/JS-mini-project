@@ -33,6 +33,7 @@ body {
   font-size: 8vmin;
   color: #b0413b;
   cursor: pointer;
+  background-color: #d6d645;
 }
 
 .reset {
